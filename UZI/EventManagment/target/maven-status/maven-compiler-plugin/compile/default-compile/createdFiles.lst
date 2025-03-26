@@ -1,7 +1,0 @@
-eventmanagment\Editor.class
-eventmanagment\EventManager.class
-eventmanagment\EventListener.class
-eventmanagment\Demo.class
-eventmanagment\SMSSupportListener.class
-eventmanagment\EmailNotificationListener.class
-eventmanagment\LogOpenListener.class
